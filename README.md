@@ -1,6 +1,7 @@
 ## Hi there 👋
 Hi! I'm a CS student at HDU.
 
+![GitHub Stats](https://streak-stats.demolab.com?user=Caimee&theme=tokyonight&hide_border=true)
 <!--
 **Caimee/Caimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
