@@ -1,5 +1,5 @@
 <h3 align='left'>Hi!</h1>
-<h1 align='left'>I'm Modo.</h1>
+<h1 align='left'>I'm Modo</h1>
 <h3 align="left">A CS student learning at HDU</h3>
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Caimee&theme=default&hide_border=true)
