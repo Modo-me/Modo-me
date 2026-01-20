@@ -2,7 +2,7 @@
 <h1 align='left'>I'm Modo</h1>
 <h3 align="left">A CS student learning at HDU, occasionally working on Minecraft modding.</h3>
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Caimee&theme=default&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Modo-me&theme=default&hide_border=true)
 <!--
 **Caimee/Caimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
