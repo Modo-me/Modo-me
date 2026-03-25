@@ -22,5 +22,5 @@
 
 📖 Blog: <a href="https://modo.org.cn">modo.org.cn</a>
 
-💬 WeChatID: <code>Ciallo_is_Ciallo</code>
+💬 WeChat_ID: <code>Ciallo_is_Ciallo</code>
 
