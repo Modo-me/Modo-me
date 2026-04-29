@@ -4,10 +4,10 @@
 
 <pre>
 ☁️ A Gopher exploring backend, observability and cloud-native technologies
+
+🌠 An open-source enthusiast and contributor
   
 🧑‍💻 A CS student learning at HDU
-  
-🌠 An open-source enthusiast and contributor
   
 💡 A Minecraft modder
   
