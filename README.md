@@ -3,11 +3,11 @@
 <h3 align="left">😘 About me</h3>
 
 <pre>
+☁️ A Gopher exploring backend, observability and cloud-native technologies
+  
 🧑‍💻 A CS student learning at HDU
   
 🌠 An open-source enthusiast and contributor
-  
-☁️ A Gopher exploring backend and cloud-native technologies
   
 💡 A Minecraft modder
   
