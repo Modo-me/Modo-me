@@ -3,7 +3,7 @@
 <h3 align="left">😘 About me</h3>
 
 <pre>
-☁️ A Gopher exploring backend, observability and cloud-native technologies
+☁️ A Gopher exploring observability and cloud-native technologies
 
 🌠 An open-source enthusiast and contributor
   
