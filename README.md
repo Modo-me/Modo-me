@@ -19,7 +19,7 @@
 <h3 align="left">🕒 My Status</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Modo-me" alt="GitHub Streak" /></a>
 <h3 align="left">🌐 Visitors</h3>
-<img src="https://count.getloli.com/@Modo-me?name=Modo-me&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":Modo-me" />
+<img src="https://count.getloli.com/@Modo-me?name=Modo-me&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":Modo-me" />
 
 <h3 align="left">👀 Want to learn more about me?</h3>
 
