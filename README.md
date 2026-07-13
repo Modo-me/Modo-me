@@ -1,7 +1,9 @@
 <h3 align='left'>Hi there 👋</h3>
 <h1 align='left'>I'm Modo!</h1>
 
-<img width="2124" height="1056" alt="2015121762990561-face-new" src="https://github.com/user-attachments/assets/ee9a340b-0f90-45fc-a561-34b229954d7e" />
+<img width="1850" height="850" alt="Collett_Anastasia02-face-new_副本" src="https://github.com/user-attachments/assets/d528cd82-32f7-40b2-9378-30213e28792b" />
+
+
 
 
 <h3 align="left">😘 About me</h3>
