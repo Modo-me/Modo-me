@@ -1,5 +1,9 @@
 <h3 align='left'>Hi there 👋</h3>
 <h1 align='left'>I'm Modo!</h1>
+
+<img width="2124" height="1056" alt="2015121762990561-face-new" src="https://github.com/user-attachments/assets/ee9a340b-0f90-45fc-a561-34b229954d7e" />
+
+
 <h3 align="left">😘 About me</h3>
 
 <pre>
@@ -16,10 +20,9 @@
 
      
 
+
 <h3 align="left">🕒 My Status</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Modo-me" alt="GitHub Streak" /></a>
-<h3 align="left">🌐 Visitors</h3>
-<img src="https://count.getloli.com/@Modo-me?name=Modo-me&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":Modo-me" />
 
 <h3 align="left">👀 Want to learn more about me?</h3>
 
