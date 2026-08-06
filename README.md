@@ -1,5 +1,5 @@
 
-<img align="right" width="350" src="https://github.com/user-attachments/assets/a8364012-f18f-474e-afaf-3a68e2daee4c" />
+<img align="right" width="300" src="https://github.com/user-attachments/assets/a8364012-f18f-474e-afaf-3a68e2daee4c" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=29&duration=2200&pause=1300&color=7BBCF7&width=435&lines=%F0%9F%A4%97+Hi+there%2C++I'm+Modo+~)](https://git.io/typing-svg)
 
