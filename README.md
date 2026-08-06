@@ -6,7 +6,7 @@
 <h3 align="left">About me</h3>
 
 <pre>
- A Gooooooopher exploring Observability & Cloud Native technologies ！
+ A Gooooooooopher exploring Observability & Cloud Native technologies ！
 
  An open-source enthusiast and contributor ~
   
