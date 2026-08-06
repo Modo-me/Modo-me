@@ -6,7 +6,7 @@
 <h3 align="left">About me</h3>
 
 <pre>
- A Gooooooooopher exploring Observability & Cloud Native technologies ！
+ A Goooooooopher exploring Observability & Cloud Native technologies ！
 
  An open-source enthusiast and contributor ~
   
@@ -30,7 +30,6 @@
 
 
      
----
 
 <h3 align="left">🕗 My Status</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Modo-me" alt="GitHub Streak" /></a>
