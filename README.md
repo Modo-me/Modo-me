@@ -18,9 +18,9 @@
  ······
 </pre>
 
-> <h3 align='left'>❤️  I am currently working as a SWE ❤️</h3>
+> <h3 align='left'>❤️  I  LOVE  working as a SWE ❤️</h3>
 
-> <h3 align='left'>🆒  But I am also highly interested in SRE-related technologies and actively exploring this field ! 🆒 </h3>
+> <h3 align='left'>🆒  But I'm also deeply interested in SRE-related technologies and actively exploring this field ! 🆒 </h3>
 
 ---
 <img width="1850" height="850" alt="Collett_Anastasia02-face-new_副本" src="https://github.com/user-attachments/assets/d528cd82-32f7-40b2-9378-30213e28792b" />
