@@ -11,7 +11,7 @@
 
  An open-source enthusiast and contributor ~
   
- A CS student learning at HDU ~
+ A SE student learning at HDU ~
    
  Maybe a Minecraft modder ？
   
