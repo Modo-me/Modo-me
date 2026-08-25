@@ -28,18 +28,6 @@
 ---
 
 
-
-
-     
-
-<h3 align="left">🕗 My Status</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Modo-me" alt="GitHub Streak" /></a>
-
----
-
-
-<h3 align="left">🧸 Want to learn more about me?</h3>
-
 📖 Blog: <a href="https://modo.org.cn">modo.org.cn</a>
 
 💬 WeChat_ID: <code>Ciallo_is_Ciallo</code>
